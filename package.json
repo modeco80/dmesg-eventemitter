@@ -1,0 +1,14 @@
+{
+  "name": "dmesg-eventemitter",
+  "version": "1.0.0",
+  "description": "event emitter abstraction over dmesg lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "modeco80",
+  "license": "MIT",
+  "dependencies": {
+    "@rauschma/stringio": "^1.4.0"
+  }
+}
